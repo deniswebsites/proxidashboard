@@ -489,10 +489,6 @@ textarea:focus {
     display: block;
 }
 
-.main_nav_wrapp {
-
-}
-
 .main_nav {
     display: flex;
     display: -webkit-flex;
@@ -1416,10 +1412,6 @@ textarea:focus {
     padding: 15px 30px 10px 30px;
 }
 
-.title h1 {
-
-}
-
 .two_cols {
     display: flex;
     flex-wrap: wrap;
@@ -1439,10 +1431,6 @@ textarea:focus {
     background: #FFF;
     border: 2px solid #F4EDFF;
     border-radius: 18px;
-}
-
-.white_box_title {
-
 }
 
 .white_box_title h3 {
@@ -1481,10 +1469,6 @@ textarea:focus {
 .thumb_1 .icon_box {
     display: flex;
     justify-content: flex-end;
-}
-
-.thumb_1 .icon_box img {
-
 }
 
 .thumb_1_descript {
@@ -1532,11 +1516,6 @@ textarea:focus {
 
 .chart_1 {
     height: 100px;
-
-}
-
-.chart_1 img {
-
 }
 
 .chart_val {
@@ -1549,10 +1528,6 @@ textarea:focus {
     font-size: 25px;
     line-height: 120%;
     color: #303333;
-}
-
-.chart_val_descript {
-
 }
 
 .chart_val_descript p {
@@ -1608,10 +1583,6 @@ textarea:focus {
 
 .thumb_2 .icon_box.pink {
     background: #FEF3E7;
-}
-
-.thumb_2 .icon_box img {
-
 }
 
 .ref_wrapp {
@@ -1720,10 +1691,6 @@ textarea:focus {
     background-position: center;
     background-size: contain;
     background-image: url(img/dots.svg);
-}
-
-.thumb_3_descript {
-
 }
 
 .thumb_3_descript h3 {
@@ -2028,10 +1995,6 @@ textarea:focus {
     color: #303333;
 }
 
-.time_dr_list {
-
-}
-
 .time_dr_list .val {
     font-size: 14px;
     line-height: 120%;
@@ -2263,10 +2226,6 @@ textarea:focus {
     border-radius: 18px;
 }
 
-/*.tab_thumb:hover {
-    border: 2px solid #4ADAD6;
-}
-*/
 .tab_thumb_title h3 {
     padding: 2px 0;
     font-size: 20px;
